@@ -11,7 +11,8 @@ body {
 
 h1 {
   text-align: center;
-  margin-bottom: 40px;
+  margin-top: 35px;
+  margin-bottom: 65px;
 }
 
 p {
@@ -23,7 +24,7 @@ p {
   margin-right: auto;
   font-family: Helvetica;
   padding: 5px;
-  overflow-y: hidden;
+  /* overflow-y: hidden; */
 }
 
 .title {
@@ -46,7 +47,7 @@ div {
   margin: 8px;
   margin-bottom: 16px;
   margin-top: 0;
-  height: 200px;
+  height: 235px;
 }
 
 .row {
