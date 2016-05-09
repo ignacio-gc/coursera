@@ -34,7 +34,6 @@ p {
   width: 100px;
   height: 30px;
   margin-top: 0;
-
   border-bottom: 1px solid black;
   border-left: 1px solid black;
 }
@@ -45,6 +44,7 @@ div {
   position: relative;
   margin: 5px;
   height: 200px;
+  
 }
 
 .row {
